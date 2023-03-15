@@ -186,7 +186,7 @@ body{
 .privacy ul li {float: left;}
 .privacy ul li a {text-decoration: none;
                   color: #000000;
-                  font-size: 14px;
+                  font-size: 16px;
                   display: block;
                   margin: 0px 10px;
           }
@@ -198,7 +198,7 @@ margin-left: 0}
         float: right;
 }
 .media span {
-	font-size: 14px;
+	font-size: 16px;
 }
 .media ul  {list-style-type: none;}
 .media ul li {float: left;}
